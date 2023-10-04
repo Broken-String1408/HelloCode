@@ -1,0 +1,15 @@
+C:\Users\nogebator 666\Desktop\Домашка по программированию\Example\Example 001_Helloconsole\bin\Debug\net6.0\Example 001_Helloconsole.exe
+C:\Users\nogebator 666\Desktop\Домашка по программированию\Example\Example 001_Helloconsole\bin\Debug\net6.0\Example 001_Helloconsole.deps.json
+C:\Users\nogebator 666\Desktop\Домашка по программированию\Example\Example 001_Helloconsole\bin\Debug\net6.0\Example 001_Helloconsole.runtimeconfig.json
+C:\Users\nogebator 666\Desktop\Домашка по программированию\Example\Example 001_Helloconsole\bin\Debug\net6.0\Example 001_Helloconsole.dll
+C:\Users\nogebator 666\Desktop\Домашка по программированию\Example\Example 001_Helloconsole\bin\Debug\net6.0\Example 001_Helloconsole.pdb
+C:\Users\nogebator 666\Desktop\Домашка по программированию\Example\Example 001_Helloconsole\obj\Debug\net6.0\Example 001_Helloconsole.csproj.AssemblyReference.cache
+C:\Users\nogebator 666\Desktop\Домашка по программированию\Example\Example 001_Helloconsole\obj\Debug\net6.0\Example 001_Helloconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nogebator 666\Desktop\Домашка по программированию\Example\Example 001_Helloconsole\obj\Debug\net6.0\Example 001_Helloconsole.AssemblyInfoInputs.cache
+C:\Users\nogebator 666\Desktop\Домашка по программированию\Example\Example 001_Helloconsole\obj\Debug\net6.0\Example 001_Helloconsole.AssemblyInfo.cs
+C:\Users\nogebator 666\Desktop\Домашка по программированию\Example\Example 001_Helloconsole\obj\Debug\net6.0\Example 001_Helloconsole.csproj.CoreCompileInputs.cache
+C:\Users\nogebator 666\Desktop\Домашка по программированию\Example\Example 001_Helloconsole\obj\Debug\net6.0\Example 001_Helloconsole.dll
+C:\Users\nogebator 666\Desktop\Домашка по программированию\Example\Example 001_Helloconsole\obj\Debug\net6.0\refint\Example 001_Helloconsole.dll
+C:\Users\nogebator 666\Desktop\Домашка по программированию\Example\Example 001_Helloconsole\obj\Debug\net6.0\Example 001_Helloconsole.pdb
+C:\Users\nogebator 666\Desktop\Домашка по программированию\Example\Example 001_Helloconsole\obj\Debug\net6.0\Example 001_Helloconsole.genruntimeconfig.cache
+C:\Users\nogebator 666\Desktop\Домашка по программированию\Example\Example 001_Helloconsole\obj\Debug\net6.0\ref\Example 001_Helloconsole.dll
